@@ -4,8 +4,9 @@
 @theme {
     --font-sans: 'Plus Jakarta Sans', sans-serif;
 
-    --color-secondary-white: ##FAFAFA;
-    --color-primary-green: ##60E5AE;
+    --color-secondary-white: #FAFAFA;
+    --color-primary-green: #60E5AE;
+    --color-primary-green-dark: #01B671;
 
     --shadow-primary: 0px 1px 3px 0px rgba(0, 0, 0, 0.12), 0px 23px 44px 0px rgba(176, 183, 195, 0.14);
 }
