@@ -6,7 +6,7 @@ const MainLayout = () => {
   return (
     <div className="">
       <div
-        className="md:px-[4%] bg-top-right bg-cover bg-no-repeat h-[40vh] w-full bg-amber-300"
+        className="md:px-[4%] bg-top-right bg-cover bg-no-repeat h-[40vh] w-full"
         style={{ backgroundImage: `url(${homeBg})` }}
       >
         <Navbar />
